@@ -1,4 +1,4 @@
-# Fractal Dimension Box Counting Code (Windows Demo)
+# Fractal Dimension Box Counting (Windows Demo)
 
 ![Measuring the coast of Britain](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Great_Britain_Box.svg/320px-Great_Britain_Box.svg.png)
 
