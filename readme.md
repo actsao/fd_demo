@@ -8,11 +8,13 @@ Slightly modified to work in Windows.
 1.) Clone or download the repository using https://github.com/actsao/fd_demo.git for cloning or under Code > ZIP for downloading. Extract files if needed.
  - Download recommended for new github users
 
-2.) In CMD, run
+2.) In Anaconda Prompt, run
 
 ```
 conda env create -f environment.yml
 ```
+
+- Anaconda Prompt is recommended over CMD for ease of use. Either is fine otherwise.
 
 ## Sample Usage
 1.) In Anaconda Prompt, activate the environment
@@ -20,8 +22,6 @@ conda env create -f environment.yml
 ```
 conda activate fd_demo
 ```
-
-- Anaconda Prompt is recommended over CMD for ease of use. Either is fine otherwise.
 
 2.) CD into the folder containing the downloaded files
 
