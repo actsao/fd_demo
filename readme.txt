@@ -1,3 +1,5 @@
 Demonstration of code to calculate fractal dimension.
 
-Note, environment file uses Python 3.10 and is compatible with Windows.
+Slightly modified to work in Windows.
+
+Note, environment.yml uses Python 3.10 and is compatible with Windows.
